@@ -7,6 +7,8 @@ public class TestConflictGit {
 		System.out.println("test1111");
 		System.out.println("test1111");
 		System.out.println("test2222");
+		System.out.println("khong duoc roi");
+		System.out.println("conflict di pa");
 		
 	}
 }
