@@ -7,6 +7,9 @@ public class TestConflictGit {
 		System.out.println("Local: change 111111111");
 
 		System.out.println("Branch: change 555555555");
+		System.out.println("Branch: change 888888888");
+		System.out.println("Branch: change 999999999");
+		System.out.println("Branch: change 100000000");
 		
 
 
