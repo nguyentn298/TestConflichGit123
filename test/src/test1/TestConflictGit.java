@@ -14,6 +14,10 @@ public class TestConflictGit {
 		System.out.println("khong duoc roi");
 		System.out.println("conflict di pa");
 
+
+
+		System.out.println("Test tiep");
+
 		
 	}
 }
