@@ -7,16 +7,9 @@ public class TestConflictGit {
 		System.out.println("test1111");
 		System.out.println("test1111");
 		System.out.println("test2222");
+		System.out.println("fourth");
+		System.out.println("fiveth");
 
-		System.out.println("lan nay chac duoc");
-
-
-		System.out.println("khong duoc roi");
-		System.out.println("conflict di pa");
-
-
-
-		System.out.println("Test tiep");
 
 		
 	}
