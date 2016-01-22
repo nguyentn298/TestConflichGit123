@@ -11,6 +11,7 @@ public class TestConflictGit {
 		System.out.println("Branch: change 111111111");
 		System.out.println("Branch: change 222222222");
 		System.out.println("Branch: change 333333333");
+		System.out.println("Branch: change 444444444");
 
 	}
 }
