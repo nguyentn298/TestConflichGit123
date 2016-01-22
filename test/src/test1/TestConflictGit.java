@@ -12,6 +12,8 @@ public class TestConflictGit {
 		System.out.println("fiveth");
 		
 		System.out.println("Lan nay chac duoc");
+		System.out.println("Lan nay chac duoc");
+		System.out.println("Lan nay chac duoc 333");
 
 
 	
