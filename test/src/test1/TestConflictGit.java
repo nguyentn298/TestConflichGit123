@@ -5,5 +5,6 @@ public class TestConflictGit {
 		System.out.println("conflict github");
 		System.out.println("Local: change 1234567");
 		System.out.println("Branch: change 333333");
+		System.out.println("Branch: change 444444");
 	}
 }
