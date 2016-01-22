@@ -12,6 +12,10 @@ public class TestConflictGit {
 		System.out.println("Branch: change 888888888");
 		System.out.println("Branch: change 999999999");
 		System.out.println("Branch: change 100000000");
+<<<<<<< HEAD
 		System.out.println("Branch: change 222222222");
+=======
+		System.out.println("Branch: change 111111111");
+>>>>>>> branch 'master' of https://github.com/nguyentn298/TestConflichGit123.git
 	}
 }
